@@ -1,0 +1,56 @@
+,bike,msrp,price,brand,category,type
+2,"23, 55, Super Professional Single 650B, Quicksilver","$1,499.00",749.5,All-City,Bicycles,Gravel
+4,"22, S, Twostroke 01 FOUR, Metallic Cherry Red","$2,799.00",1399.5,BMC Switzerland,Bicycles,Mountain
+5,"22, L, Twostroke AL FOUR, Neon Red & Grey","$1,399.00",699.5,BMC Switzerland,Bicycles,Mountain
+6,"22, 51, Roadmachine 01 Five, Ult Di2, Gray","$6,999.00",3499.5,BMC Switzerland,Bicycles,Road
+7,"23, X, UnReStricted LT One, Mustard","$7,999.00",3999.5,BMC Switzerland,Bicycles,Gravel
+8,"23, M, UnReStricted LT One, Mustard","$7,999.00",3999.5,BMC Switzerland,Bicycles,Gravel
+9,"23, X, UnReStricted LT Two, Green","$6,499.00",3249.5,BMC Switzerland,Bicycles,Gravel
+10,"23, L, UnReStricted LT One, Mustard","$7,999.00",3999.5,BMC Switzerland,Bicycles,Gravel
+11,"23, 54, Roadmachine Four, Brown","$5,199.00",2599.5,BMC Switzerland,Bicycles,Road
+12,"23, 54, Teammachine SLR Two, Force Axs, Carbon","$5,999.00",2999.5,BMC Switzerland,Bicycles,Road
+14,"19, X, 29 F-Si HM World Cup, REP","$9,500.00",4750.0,Cannondale,Bicycles,Mountain
+15,"20, M, 29 F-Si HM A/M Frame, Fork, Throwback Blu","$4,500.00",2250.0,Cannondale,Bicycles,Mountain
+16,"22, L, Topstone Neo Carbon 2, BPL","$7,250.00",3625.0,Cannondale,Bicycles,E Bike
+17,"22, X, Quick Disc 4, ALP",$960.00,480.0,Cannondale,Bicycles,Fitness
+18,"22, S, Treadwell 2 Remixte Ltd, WOW","$1,000.00",500.0,Cannondale,Bicycles,Fitness
+19,"22, S, Quick Disc 5, ALM",$735.00,367.5,Cannondale,Bicycles,Fitness
+20,"22, L, Quick Disc 5, ALM",$735.00,367.5,Cannondale,Bicycles,Fitness
+21,"22, X, 29 Trail SE 2, EMR","$1,875.00",937.5,Cannondale,Bicycles,Mountain
+22,"22, L, 29 Trail Wmns SE 4, PUR","$1,175.00",587.5,Cannondale,Bicycles,Mountain
+23,"22, XS, 27.5 Trail Wmns 7, GRY",$760.00,380.0,Cannondale,Bicycles,Mountain
+24,"22, L, 29 Trail Wmns 5, LAV",$960.00,480.0,Cannondale,Bicycles,Mountain
+25,"22, M, 29 Trail Wmns 7, GRY",$760.00,380.0,Cannondale,Bicycles,Mountain
+26,"22, L, 29 Trail Wmns 7, GRY",$760.00,380.0,Cannondale,Bicycles,Mountain
+27,"22, 58, EVO HM, Red AXS LAV","$12,500.00",6250.0,Cannondale,Bicycles,Road
+28,"22, S, 27.5, Bad Boy LTD, Palace","$1,650.00",825.0,Cannondale,Bicycles,Urban
+29,"23, M, Treadwell Neo 2 EQ, GRY","$2,175.00",1087.5,Cannondale,Bicycles,E Bike
+30,"23, L, Treadwell Neo 2 EQ ,GRY","$2,175.00",1087.5,Cannondale,Bicycles,E Bike
+31,"23, S, Quick Disc 5, EMR",$735.00,367.5,Cannondale,Bicycles,Fitness
+32,"23, XS, Topstone Crb 1, RLE, BPL","$7,850.00",3925.0,Cannondale,Bicycles,Gravel
+33,"23, L, 29 Scalpel HT Crb 3, BLK","$3,025.00",1512.5,Cannondale,Bicycles,Mountain
+35,"22, 61, Verza Speed 40, Red Ano",$799.00,399.5,Felt,Bicycles,Fitness
+37,"23, 20, Slammer Mercado, RAS",$435.00,217.5,GT,Bicycles,Bmx Bikes
+38,"23, 20, Slammer Kachinsky, Red",$435.00,217.5,GT,Bicycles,Bmx Bikes
+39,"23, 20, Performer Mercado, Sun",$484.50,242.25,GT,Bicycles,Bmx Bikes
+40,"23, 48, Grade Elite, BUR","$1,325.00",662.5,GT,Bicycles,Gravel
+41,"23, 61, Grade Elite, BUR","$1,325.00",662.5,GT,Bicycles,Gravel
+42,"23, 44, Grade Elite, BUR","$1,325.00",662.5,GT,Bicycles,Gravel
+43,"23, 16, Grunge, GRY",$275.00,137.5,GT,Bicycles,Kids
+44,"23, 20, Grunge, GRY",$300.00,150.0,GT,Bicycles,Kids
+45,"23, 16, Siren, Pink",$275.00,137.5,GT,Bicycles,Kids
+47,"23, 50, GT2 45, Force AXS 1x, Brushed","$8,999.00",4499.5,Mosaic,Bicycles,Gravel
+49,"22, X, 29, STORM 1, SILVER","$1,199.00",599.5,Norco,Bicycles,Mountain
+50,"22, S, 27.5 Fluid Alum FS 1, Black/Silver","$3,399.00",1699.5,Norco,Bicycles,Mountain
+51,"22, XS, 27.5 FLUID FS 1, BLACK/SILVER","$3,399.00",1699.5,Norco,Bicycles,Mountain
+53,"23, L, Open UPPER Ekar Enve 700, Black","$7,900.00",3950.0,Open Cycle,Bicycles,Gravel
+54,"23, M, Open UPPER Force Axs, Enve AG25 650, Black","$8,800.00",4400.0,Open Cycle,Bicycles,Gravel
+56,"23, XS, Beargrease Carbon X01, Red/Teal Fade","$7,099.00",3549.5,Salsa Cycles,Bicycles,Fat Bikes
+57,"23, M, Mukluk Carbon XT, Purple","$4,249.00",2124.5,Salsa Cycles,Bicycles,Fat Bikes
+59,"23, L, Megatower C, S Kit, Blue","$6,499.00",3249.5,Santa Cruz Bicycles,Bicycles,Mountain
+61,"22, M, 4060 LT, GX, Purple","$6,599.00",3299.5,Scor,Bicycles,Mountain
+62,"23, M, Z 4060 STC XT, Mint","$9,499.00",4749.5,Scor,Bicycles,E Bike
+63,"23, M, Z 4060 ST SLX, Slate","$7,499.00",3749.5,Scor,Bicycles,E Bike
+64,"23, L, Z 4060 ST SLX, Slate","$7,499.00",3749.5,Scor,Bicycles,E Bike
+65,"23, X, Z 4060 ST SLX, Slate","$7,499.00",3749.5,Scor,Bicycles,E Bike
+66,"23, L, 4060 ST, GX, Yum Gum","$7,199.00",3599.5,Scor,Bicycles,Mountain

@@ -13,6 +13,6 @@ def b(): ...
 
 @asset(
     deps=[b],
-    automation_condition = AutomationCondition.on_cron("*/10 * * * *")
+    automation_condition = AutomationCondition.on_cron("*/2 * * * *")
 ) 
 def c(): ... 

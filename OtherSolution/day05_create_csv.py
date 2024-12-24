@@ -18,4 +18,4 @@ orders_data = {
 
 # Save to parent directory's data folder
 df = pd.DataFrame(orders_data)
-df.to_csv(os.path.join(data_dir, 'orders.csv'), index=False)
+df.to_csv(os.path.join(data_dir, 'orders_raw.csv'), index=False)

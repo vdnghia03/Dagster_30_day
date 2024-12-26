@@ -45,4 +45,5 @@ def orders_summary(context: dg.AssetExecutionContext, orders: pd.DataFrame) -> d
     )
 
 defs = dg.Definitions(
-    assets= [orders, orders_summary],)
+    assets= [orders, orders_summary]
+)
